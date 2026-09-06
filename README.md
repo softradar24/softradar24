@@ -1,16 +1,42 @@
-## Hi there 👋
+# SoftRadar24 Research
 
-<!--
-**softradar24/softradar24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Independent software research, technical field guides and practical product analysis for Windows, macOS, Android and iOS everyday software workflows.
 
-Here are some ideas to get you started:
+SoftRadar24 researches software around the problems users are actually trying to solve — backup and recovery, PC maintenance, driver management, software removal, data transfer, media conversion, disc playback, device utilities and related workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What We Research
+
+- Windows backup, restore/recovery and SSD migration
+- Windows driver update management and hardware maintenance
+- Software installation, removal and system cleanup
+- PC optimization and diagnostic utilities
+- Blu-ray and DVD software
+- Video and audio conversion workflows
+- Mobile device management and data utilities
+- File transfer, recovery and storage tools
+- Webcam, recording and multimedia applications
+
+## Research Approach
+
+Our technical notes focus on real workflows rather than feature lists alone.
+
+Depending on the subject, research may include:
+
+- identifying the actual problem a software category solves;
+- distinguishing built-in operating-system tools from third-party software;
+- comparing product capabilities and limitations;
+- documenting migration, recovery and troubleshooting workflows;
+- separating marketing claims from practical requirements;
+- maintaining references as software and operating systems change.
+
+## Software Research
+
+Our coverage includes products and technologies from software vendors such as AOMEI, Aiseesoft, AnyMP4, AVS4YOU, Driver Easy, DriverMax, Hard Disk Sentinel, Hasleo, iMobie, IObit, Kerish, Revo, Tipard, WiseCleaner, WonderFox, WinXDVD and others.
+
+Individual GitHub notes are designed to stand on their own as useful technical references. When a subject requires deeper product research, testing context or comparison data, the corresponding SoftRadar24 research may be referenced for further reading.
+
+## SoftRadar24
+
+Independent software research, product analysis and practical technical guides:
+
+https://softradar24.com/
